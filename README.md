@@ -16,7 +16,7 @@ To explore how gaming habits affect students' academic performance.
 **2. Correlation Analysis**  
 - **Objective:**  
   Identify relationships between variables, such as how gaming habits influence academic success.
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
