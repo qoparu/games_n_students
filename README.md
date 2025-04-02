@@ -13,7 +13,12 @@ To explore how gaming habits affect students' academic performance.
 
 ---
 
-**2. Correlation Analysis**  
+**2. Correlation Analysis** 
+What we are looking for?
+
+Strong correlations (values close to 1 or -1).
+
+For example, a negative correlation between Playing House and Grade may mean that the more a student plays, the lower the grades.
 - **Objective:**  
   Identify relationships between variables, such as how gaming habits influence academic success.
 ![Correlation Heatmap](correlation_heatmap.png)
