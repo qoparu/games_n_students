@@ -14,6 +14,7 @@ To explore how gaming habits affect students' academic performance.
 ---
 
 **2. Correlation Analysis** 
+
 What we are looking for?
 
 Strong correlations (values close to 1 or -1).
