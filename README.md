@@ -17,8 +17,9 @@ To explore how gaming habits affect students' academic performance.
 - **Objective:**  
   Identify relationships between variables, such as how gaming habits influence academic success.
 ![Correlation Heatmap](correlation_heatmap.png)
-If *Playing Hours* and *Grade* have a correlation of -0.65, it means that the more time a student spends playing, the lower their academic grades tend to be.
-If *Mother Education* and *Grade* correlate at 0.8, this indicates a strong relationship between the mother's level of education and the student's academic performance.
+If **Playing Hours** and **Grade** have a correlation of -0.65, it means that the more time a student spends playing, the lower their academic grades tend to be.
+
+If **Mother Education** and **Grade** correlate at 0.8, this indicates a strong relationship between the mother's level of education and the student's academic performance.
 
 ---
 
