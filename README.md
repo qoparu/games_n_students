@@ -40,12 +40,12 @@ If **Mother Education** and **Grade** correlate at **0.8**, this indicates a *st
 - **Method:**  
   Train a model (e.g., linear regression) and assess its accuracy using the coefficient of determination \( R^2 \).
 
-# Predictive Modeling (Regression, Classification, Clustering)
+## Predictive Modeling (Regression, Classification, Clustering)
 
-## Goal
+### Goal
 Build models to predict student performance and group students based on behavior and demographics.
 
-## Tools
+### Tools
 - **Python**
 - **scikit-learn**
 - **pandas**
