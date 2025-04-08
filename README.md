@@ -40,12 +40,55 @@ If **Mother Education** and **Grade** correlate at **0.8**, this indicates a *st
 - **Method:**  
   Train a model (e.g., linear regression) and assess its accuracy using the coefficient of determination \( R^2 \).
 
+# Predictive Modeling (Regression, Classification, Clustering)
+
+## Goal
+Build models to predict student performance and group students based on behavior and demographics.
+
+## Tools
+- **Python**
+- **scikit-learn**
+- **pandas**
+- **matplotlib**
+- **seaborn**
+
 ---
 
-## Expected Outcomes
+### 1. Regression: Predict Student Grade (`regression.py`)
+**Purpose:** Predict numerical grades (Grade) based on gaming habits, parental income, and education levels.  
+**Model:** Linear Regression  
 
-- Understand the impact of gaming habits on academic performance.
-- Develop a model capable of predicting performance levels based on selected factors.
+#### Key Features:
+- Playing Hours  
+- Parent Revenue  
+- Father Education  
+- Mother Education  
+
+#### Insights:
+- Negative correlation between Playing Hours and Grade.  
+- Parental education and income positively influence grades.  
+
+---
+
+### 2. Classification: Categorize Academic Performance (`classification.py`)
+**Purpose:** Classify students into performance groups (High/Medium/Low) based on grades.  
+**Model:** Random Forest Classifier  
+
+#### Thresholds:
+- **High:** Grade ≥ 80  
+- **Medium:** 60 ≤ Grade < 80  
+- **Low:** Grade < 60  
+
+---
+
+### 3. Clustering: Identify Student Groups (`clustering.py`)
+**Purpose:** Uncover hidden patterns (e.g., "Gamers", "High Achievers") using unsupervised learning.  
+**Model:** K-Means Clustering  
+
+#### Features:
+- Playing Hours  
+- Parent Revenue  
+- Grade  
 
 ---
 
