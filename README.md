@@ -90,6 +90,8 @@ Build models to predict student performance and group students based on behavior
 - Parent Revenue  
 - Grade  
 
+![Results](rcc.png)
+
 ---
 
 ## How to Run the Project
