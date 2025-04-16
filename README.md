@@ -1,4 +1,4 @@
-# 👾 Games and Students 👾
+# 👾 Games and Students 👩🏻‍🏫
 
 **Project Goal:**  
 To explore how gaming habits affect students' academic performance.
